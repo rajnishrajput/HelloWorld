@@ -1,0 +1,12 @@
+ Volume in drive G is Imp
+ Volume Serial Number is 9A75-BF70
+
+ Directory of G:\progs
+
+27-11-2017  00:43    <DIR>          .
+27-11-2017  00:43    <DIR>          ..
+27-11-2017  00:43                 0 readme.txt
+27-11-2017  00:01               415 Test.class
+27-11-2017  00:00               100 Test.java
+               3 File(s)            515 bytes
+               2 Dir(s)   4,000,866,304 bytes free
